@@ -2,7 +2,7 @@ package ejerciciosDeLogica;
 
 import java.util.Scanner;
 
-public class Main {
+public class Numeros_Pares_Impares_y_Primos {
 	
 	static void verPares(int cantidad) {
 		int orden, num;
