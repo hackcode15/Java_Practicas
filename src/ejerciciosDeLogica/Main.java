@@ -94,6 +94,8 @@ public class Main {
 			
 		}while(decision != 0);
 		
+		System.out.println("Fin del programa");
+		
 		read.close();
 		
 	}
